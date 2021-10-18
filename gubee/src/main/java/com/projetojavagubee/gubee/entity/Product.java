@@ -28,4 +28,6 @@ public class Product {
     private String mercado;
 
     private Tecnologias tecnologias;
+
+    
 }
